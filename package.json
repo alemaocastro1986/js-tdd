@@ -1,0 +1,19 @@
+{
+  "name": "js-tdd",
+  "version": "1.0.0",
+  "description": "Curso TDD com Javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/alemaocastro1986/js-tdd.git"
+  },
+  "author": "Andrius Cunha Castro <alemaocastro1986@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alemaocastro1986/js-tdd/issues"
+  },
+  "homepage": "https://github.com/alemaocastro1986/js-tdd#readme"
+}
