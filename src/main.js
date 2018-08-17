@@ -1,4 +1,4 @@
- a = 3;
+ a = 3
 const b = 2;
 const c = 'cjzbxcjbzjkcbzkjbjcbxzkvbxczjkvbxkjbvzbxjkcvbxzljxjkbcxjzbvckjxbxkjbcvbxjkcvbkjxcbjnnlkkljkljkjkljljlkjkjklj';
 

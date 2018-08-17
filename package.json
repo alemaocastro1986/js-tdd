@@ -5,11 +5,11 @@
   "main": "index.js",
   "scripts": {
     "lint": "./node_modules/.bin/eslint src/*.js",
+    "pre-push": "npm run lint",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "pre-push": "npm run lint",
     "url": "git+ssh://git@github.com/alemaocastro1986/js-tdd.git"
   },
   "author": "Andrius Cunha Castro <alemaocastro1986@gmail.com>",
