@@ -1,5 +1,5 @@
  a = 3
-const b = 2;
+ b = 2
 const c = 'cjzbxcjbzjkcbzkjbjcbxzkvbxczjkvbxkjbvzbxjkcvbxzljxjkbcxjzbvckjxbxkjbcvbxjkcvbkjxcbjnnlkkljkljkjkljljlkjkjklj';
 
 function sum() {
