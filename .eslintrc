@@ -1,0 +1,9 @@
+{
+    "root": true,
+    "extends": ["airbnb-base",
+         "eslint:recommended"],
+    "rules": {
+        "linebreak-style": 0,
+        "global-require": 0
+    }
+}
